@@ -89,6 +89,10 @@ pip install -r requirements.txt
 ### Deployment
 You can deploy the model on AWS Lambda for real-time predictions. Refer to the `deployment/` folder for setup instructions.
 
+## Predictions:
+<img width="287" alt="image" src="https://github.com/user-attachments/assets/e7216132-6a51-4639-8475-dc7fefeab0e0">
+
+
 ## Results
 <img width="581" alt="image" src="https://github.com/user-attachments/assets/ebca5cb7-61ad-46f4-89f2-5935cb22ee2b">
 
