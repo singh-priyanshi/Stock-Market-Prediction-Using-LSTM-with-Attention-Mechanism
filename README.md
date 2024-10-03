@@ -90,6 +90,7 @@ pip install -r requirements.txt
 You can deploy the model on AWS Lambda for real-time predictions. Refer to the `deployment/` folder for setup instructions.
 
 ## Results
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/ebca5cb7-61ad-46f4-89f2-5935cb22ee2b">
 
 The model demonstrates significant improvement in predictive performance by incorporating sentiment analysis with stock data. With the attention mechanism, the model better identifies important events influencing the market, leading to:
 - Improved trend prediction accuracy.
